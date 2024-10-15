@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAM_YeseniaZuniga</string>
+    <string name="checkbox_radio">Radio</string>
+    <string name="checkbox_internet">Internet</string>
+    <string name="checkbox_amigo">Amigo</string>
+    <string name="checkbox_publicidad">Publicidad</string>
+    <string name="radiobutton_IS">Ingeniería de Sistemas</string>
+    <string name="radiobutton_IA">Ingeniería Ambiental</string>
+    <string name="radiobutton_IM">Ingeniería Mecánica</string>
+    <string name="radiobutton_A">Administración</string>
+</resources>
